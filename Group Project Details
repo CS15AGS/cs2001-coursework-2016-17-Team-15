@@ -1,0 +1,51 @@
+CS2001 Year 2 Group Project (Update 20/10/16)
+
+Current Application
+Brunel E-Buyer for Students, which allow people to post information about their items online, preferably in a server backend which others can view for their purchasing pleasure.
+
+Current Features
+
+Verifying Student Identity/Accounts
+- We thought it would be appropriate that since the app is exclusive to Brunel students, it would
+Be better if the app connected to a Brunel server to verify their identity. It would also make it a safer app to use, and can allow the server to cope with a much lower demand of usage.
+- Would it be possible to log in with FB?
+- Contact details involve: Name, pic, phone number, email, option to hide from public, used to make transactions.
+
+Search Option
+- It may need a search bar/menu, possibly with an intuitive interface which allows people to look for their items.
+- Can use tags to make finding the relevant items easier.
+- Category bar which organizes search findings
+- Sorting via relevance/price etc.
+
+Multiple Screens
+- A screen enabling the user to upload their own items to the application.
+- A screen enabling the user to see what others are selling.
+- A screen which can display information about the user/other users/account information.
+- Login screen 
+
+Online Chat
+- Useful to establish better communication between buyers.
+- Subject to abuse? As a result filter out words?
+
+Vendor ratings and customer reviews
+- Allow customers to be able to voice opinion on different vendors in order to improve quality of goods/behaviour or vendor.
+
+Transactions
+- No transactions using paypal/debit, app is simply a way to advertise seller’s items.
+- Instead students meet up on set locations in campus only, decided by group to ensure safety.
+- To aid this method of transaction, may be helpful to use printable receipts with the given transaction information.
+- Would storing transaction receipts in the server help? For further evidence/reference if a transaction goes wrong?
+
+Push Notifications
+- Convenient way of notifying buyers/sellers on updates to their products.
+
+Analytics
+- Provide a better experience for who is using the application by looking at their shopping/browsing history.
+- Privacy concerns?
+
+Encryption
+- Since students will likely provide their personal and student information within the application and between the servers, it is likely to provide adequate protection from spoofing/MITM which can compromise information.
+
+In-App Purchases
+- Buyers could donate/purchase to be able to get their items on top?
+- May give only a select few people with advantages to sell their items more effectively than few users?
