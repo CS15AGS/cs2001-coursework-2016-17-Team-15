@@ -17,7 +17,7 @@
 
 ## Note to Members:
 - The 'master' branch is _literally_, the master branch. This should contain the most up-to-date & valid work.
-- Feel free to branch the 'master' branch if you wish to make changes/updates to the current work.
+- Feel free to fork the 'master' branch if you wish to make changes/updates to the current work.
 - To merge your work with the 'master' branch, please submit a 'pull' request so the group will be updated on new changes, and we can then merge them correctly.
 
 ## Thanks!
