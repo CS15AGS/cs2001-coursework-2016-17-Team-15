@@ -11,10 +11,10 @@
 
 #### To-do List
 - We should move toward the development of the mobile prototype demo.
+- I believe our project should have more structure, consider using some of the design methodologies XP, Waterfall etc?
 - Discuss architecture of the app? Find out possible technologies to use? E.g. MySQL, Lucene, Hadoop etc...
 - Discuss an appropriate meetup time excluding CS2001 lab sessions and tutor meetup times.
 - Discuss whether to use Skype, TeamSpeak or Discord for alternative means of communication/collaboration.
-- ~~Get some sleep.~~
 - Add or edit more use cases. Apparently our current use cases have some slight error. Feel free to improve it!
 - Conduct analysis on real-world transactions in applications.
 - Decide on the transaction process for the application.
@@ -27,8 +27,8 @@
 - Also, if you are attempting to upload a more latest version of a file, be sure to give it the same name so it is overwritten and no duplicates are left.
 
 #### Important Dates
-- ~~Design Presentation - 4th November 2016~~  This is done thank God.
-- Mobile Prototype Demo - 9th December 2016  (This is next).
+- ~~Design Presentation - 4th November 2016~~  This is done thank goodness.
+- Mobile Prototype Demo - 9th December 2016  (Upcoming).
 - Peer & Self Assessment - 16th December 2016
 - Beta System Demo - 10th February 2017
 - System Demo Video - 24th February 2017
