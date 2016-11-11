@@ -27,8 +27,8 @@
 - Also, if you are attempting to upload a more latest version of a file, be sure to give it the same name so it is overwritten and no duplicates are left.
 
 #### Important Dates
-- ~~Design Presentation - 4th November 2016~~  This is done thank goodness.
-- Mobile Prototype Demo - 9th December 2016  (Upcoming).
+- ~~Design Presentation - 4th November 2016~~  (This is done thank goodness)
+- Mobile Prototype Demo - 9th December 2016  (Upcoming)
 - Peer & Self Assessment - 16th December 2016
 - Beta System Demo - 10th February 2017
 - System Demo Video - 24th February 2017
