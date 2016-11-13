@@ -1,4 +1,4 @@
-### Welcome to the Program Design folder!!
+### Welcome to the Code Design folder!!
 - This folder contains all files needed to designing the code for the application.
 
 ##### Use this folder for things like:
