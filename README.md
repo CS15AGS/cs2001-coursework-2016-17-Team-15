@@ -19,6 +19,7 @@
 - Conduct analysis on real-world transactions in applications.
 - Decide on the transaction process for the application.
 - Add usability engineering depth on UI designs.
+- *Anyone notice the Brunel organization typo?*
 
 #### Note to Members
 - The 'master' branch is _literally_ the master branch. This should contain the most up-to-date & valid work.
