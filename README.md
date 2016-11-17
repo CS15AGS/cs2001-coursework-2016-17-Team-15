@@ -10,12 +10,9 @@
 * Mamunah
 
 #### To-do List (In order)
-1. **Decide** on which features the appplication will have.
-2. **Decide** on which UI designs to implement. (So we can at least have an application with working activity)
-3. **Decide** on the name for the application.
-4. **Research** transactional processes, so we can decide how to implement transactions in the application.
-5. **Find** a time/place to meet (real-world/online).
-6. **Move** towards the mobile application prototype.
+1. **Complete** UI prototyping design with discussed amendments.
+2. **Decide** on the name for the application.
+3. **Find** a time/place to meet (real-world/online).
 
 #### Note to Members
 - The 'master' branch is _literally_ the master branch. This should contain the most up-to-date & valid work.
