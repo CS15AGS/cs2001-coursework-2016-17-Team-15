@@ -52,5 +52,10 @@
 - People: *Edzel*
 - Progress: *Not finished*
 
+##### Finalizing UI Design (November)
+- Stage: *Design*
+- People: *Joffin*
+- Progress: *N/A*
+
 
 
