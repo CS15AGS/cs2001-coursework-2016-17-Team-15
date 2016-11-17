@@ -27,7 +27,7 @@
 - People: *Edzel*
 - Progress: *Pretty much done, though can be added to.*
 
-##### Application UI Design (October)
+##### ~~Application UI Design (October)~~
 - Stage: *Design*
 - People: *James, Mamunah, Edzel*
 - Progress: *We still need to decide which designs to implement into the app.*
@@ -37,7 +37,7 @@
 - People: *James*
 - Progress: *I think we've decided to use James' icon? Correct me if I'm wrong.*
 
-##### Application UI Prototyping (November)
+##### ~~Application UI Prototyping (November)~~
 - Stage: *Design*
 - People: *Joffin*
 - Progress: *Not sure*
