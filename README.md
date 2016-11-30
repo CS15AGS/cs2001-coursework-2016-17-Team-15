@@ -1,4 +1,4 @@
-![alt tag](https://github.com/BrunelCS/cs2001-coursework-2016-17-Team-15/blob/master/Application-Design/Application-Background/Repository%20Readme%20Image%20%40EDZEL.png)
+![alt tag](https://github.com/BrunelCS/cs2001-coursework-2016-17-Team-15/blob/Edzel-30.11.16/Application-Design/Graphics/Repository%20Readme%20Image%20%40EDZEL.png)
 
 ## Welcome to Team 15's Repository!
 * Behold the _literal_ GitHub repository for CS2001-2016/17 Team 15, as it appears there are two.
