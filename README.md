@@ -4,7 +4,7 @@
 * Behold the _literal_ GitHub repository for CS2001-2016/17 Team 15, as it appears there are two.
 
 #### Notifications (Last Updated:30/11/16)
-- When **uploading** a file, make sure to give it a name with the following format 'File-Name @NAME, NAME...'. This is so we can clearly see who's work is who. Let me know if you feel it is better to have individual folders for every person in the group.
+- When **uploading** a file for the design folder, make sure to give it a name with the following format 'File-Name @NAME, NAME...'. This is so we can clearly see who's work is who. Let me know if you feel it is better to have individual folders for every person in the group.
 - Many files have been **moved** to their 'new' respective folders, and renamed with the names of who had produced the work. This is to better organize the repository, and make it easier to see who has done which work. Nothing has been lost.
 - You may notice a **'task-log'** on the front page of the repository, do not fear, for it is a way of jotting down the group's current progress, so you can easily find the work you have participated in when you start your portfolio.
 
