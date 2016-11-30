@@ -1,7 +1,7 @@
 ## Ooh a new folder!
 - What could it possibly entail?
 
-### Please store the android project .zip file in this folder.
+### Please store the android project in this folder.
 
 ##### Android Project Current Configuration
 - MinSDK: 4.4 Kitkat.
