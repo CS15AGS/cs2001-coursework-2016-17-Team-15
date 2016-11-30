@@ -4,7 +4,7 @@
 #### Notifications (Last Updated:30/11/16)
 - When **uploading** a file, make sure to give it a name with the following format 'File-Name @NAME, NAME...'. This is so we can clearly see who's work is who. Let me know if you feel it is better to have individual folders for every person in the group.
 - Many files have been **moved** to their 'new' respective folders, and renamed with the names of who had produced the work. This is to better organize the repository, and make it easier to see who has done which work. Nothing has been lost.
-- You may notice a **'task-log'** on the front page of the repository, do not fear, for it is a way of jotting down the group's current progress, so you can remember the work you have participated in when you start your portfolio much more easily.
+- You may notice a **'task-log'** on the front page of the repository, do not fear, for it is a way of jotting down the group's current progress, so you can easily find the work you have participated in when you start your portfolio.
 
 #### TO-DO List (In order)
 1. **Complete** UI prototyping design with discussed amendments.
@@ -28,12 +28,7 @@
 - Portfolio Assessment - 24th March 2017
 
 #### Team Members (A-Z)
-* Ashish
-* Edzel
-* James
-* Joffin
-* Johnny
-* Mamunah
+* Ashish, Edzel, James, Joffin, Johnny, Mamunah
 
 #### Thanks!
 
