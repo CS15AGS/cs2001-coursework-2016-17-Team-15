@@ -15,7 +15,7 @@
 - People: *Sample members - Copy/paste me to the bottom of the file.*
 - Progress: *Sample progress check - Copy/paste me to the bottom of the file.*
 
-### Quest-Log (Preferably in chronological order):
+### Task-Log (Preferably in chronological order):
 
 ##### ~~Coming Up With Features For The Application (October (During CS2001 Lab))~~
 - Stage: *Design*
@@ -35,7 +35,7 @@
 ##### ~~Application Icon Design (November)~~
 - Stage: *Design*
 - People: *James*
-- Progress: *I think we've decided to use James' icon? Correct me if I'm wrong.*
+- Progress: *Complete*
 
 ##### ~~Application UI Prototyping (November)~~
 - Stage: *Design*
@@ -52,7 +52,17 @@
 - People: *Edzel*
 - Progress: *Not finished*
 
-##### Finalizing UI Design (November)
+##### ~~Finalizing UI Design (November)~~
 - Stage: *Design*
 - People: *Joffin*
-- Progress: *N/A*
+- Progress: *Complete*
+
+##### Converting UI Prototypes to working .XML layouts (December)
+- Stage: *Development*
+- People: *N/A*
+- Progress: *Starting*
+
+##### Producing flow diagrams for the Java code (December)
+- Stage: *Development*
+- People: *N/A*
+- Progress: *Starting*
