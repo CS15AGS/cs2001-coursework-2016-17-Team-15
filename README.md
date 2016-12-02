@@ -38,5 +38,5 @@
 #### Team Members (A-Z)
 * Ashish, Edzel, James, Joffin, Johnny, Mamunah
 
-#### Thanks!
+## Thanks!
 
