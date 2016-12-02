@@ -8,7 +8,7 @@
 - Tutor has advised for group to familiarize themselves with Android development before Xmas break.
 - The group has decided on task distribution.
 
-#### PENDING-TASK Distribution (2/12/16)
+#### PENDING-TASK Distribution (Last Updated:2/12/16)
 - **Notifications** - James
 - **Menus** - James
 - **Working GUI interactions** - Edzel
