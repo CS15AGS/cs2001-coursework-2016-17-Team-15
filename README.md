@@ -3,13 +3,21 @@
 ## Welcome to Team 15's Repository!
 * Behold the _literal_ GitHub repository for CS2001-2016/17 Team 15, as it appears there are two.
 
-#### Notifications (Last Updated:1/12/16)
-- The group has recently **adopted** an incremental agile methodology. Though this is later to be specified in the following meeting.
-- We have finished **finalizing** the UI designs.
-- Uploaded the **Android Project folder**, all activity classes have been added, along with their layouts, as well as registered in the manifest .xml file. All layouts set to LinearLayout.
+#### Notifications (Last Updated:2/12/16)
+- Next week's meeting is on Friday 9:30am. Correct me if I'm wrong.
+- Tutor has advised for group to familiarize themselves with Android development before Xmas break.
+- The group has decided on task distribution.
 
-#### TO-DO List (In order)
-- To be discussed promptly.
+#### PENDING-TASK Distribution (2/12/16)
+- **Notifications** - James
+- **Menus** - James
+- **Working GUI interactions** - Edzel
+- **Implementing the screens** - Ashish
+- **Define package structure and package specifications** - Edzel
+- **Study database integrations** - Mamunah
+- **Website** - Ashish/James
+- **Pair programming** - Edzel/John
+- **Testing Methods** - Joffin
 
 #### Note to Members
 - The 'master' branch is _literally_ the master branch. This should contain the most up-to-date & valid work.
