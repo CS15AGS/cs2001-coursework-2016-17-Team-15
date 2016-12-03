@@ -1,17 +1,163 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_login"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/brunelBlue"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="brunelcs_2016_17.group15.activities.LoginActivity">
+    android:layout_height="match_parent">
 
+    <!-- Fills in the blank spaces for now. -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25" />
+
+    <!-- Image row, contains ImageView and filler objects.  -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.45"
+        android:orientation="horizontal"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp">
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+        <!-- Represents the Brunel Logo. -->
+        <ImageView
+            android:id="@+id/brunel_logo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8"
+            android:src="@drawable/brunel_logo"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false" />
+
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+    </LinearLayout>
+
+    <!-- Fills in the blank spaces for now. -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.01" />
+
+    <!-- Username row, contains TextView and filler objects.  -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.06"
+        android:orientation="horizontal"
+        android:layout_marginBottom="8dp">
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.075" />
+
+        <!-- Username Form -->
+        <EditText
+            android:id="@+id/username_form"
+            android:background="@drawable/textview_rounded_form"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.85"
+            android:text="Enter your Brunel student ID here"
+            android:textColor="@color/textFontForm"
+            android:textAlignment="gravity"
+            android:gravity="center"/>
+
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.075" />
+    </LinearLayout>
+
+    <!-- Password row, contains TextView and filler objects.  -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.06"
+        android:orientation="horizontal"
+        android:layout_marginBottom="8dp">
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.075" />
+
+        <!-- Password Form -->
+        <EditText
+            android:id="@+id/password_form"
+            android:background="@drawable/textview_rounded_form"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.85"
+            android:text="Enter your password here"
+            android:textColor="@color/textFontForm"
+            android:textAlignment="gravity"
+            android:gravity="center" />
+
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.075" />
+    </LinearLayout>
+
+    <!-- Login button row, including fillers. -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.06"
+        android:orientation="horizontal">
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25" />
+
+        <!-- Login Button -->
+        <Button
+            android:id="@+id/login_button"
+            android:background="@drawable/textview_rounded_login"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:text="Login"
+            android:textColor="@color/textFontLogin"
+            android:textAlignment="gravity"
+            android:gravity="center" />
+
+        <!-- Fills in the blank spaces for now. -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25" />
+    </LinearLayout>
+
+    <!-- Fills in the blank spaces for now. -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.4" />
+
+    <!-- Login Help Description -->
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
-</RelativeLayout>
+        android:id="@+id/login_help"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.06"
+        android:text="Need help with logging in? Click Here."
+        android:textColor="@color/textFontForm"
+        android:textAlignment="gravity"
+        android:gravity="center" />
+
+</LinearLayout>

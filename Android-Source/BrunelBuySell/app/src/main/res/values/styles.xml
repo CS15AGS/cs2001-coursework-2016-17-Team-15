@@ -1,11 +1,15 @@
 <resources>
-
     <!-- Base application theme. -->
     <style name="DefaultStyle" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/brunelBlue</item>
+        <item name="colorPrimaryDark">@color/brunelBlueDark</item>
+        <item name="colorAccent">@color/brunelAccent</item>
     </style>
 
+    <!-- Login Activity Theme. -->
+    <style name="LoginStyle" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/textFontForm</item>
+    </style>
 </resources>

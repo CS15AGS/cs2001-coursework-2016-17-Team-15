@@ -11,12 +11,58 @@ package brunelcs_2016_17.group15.activities; // Package which this class belongs
 /* Imports go here. */
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
+import android.widget.Toast;
 
 public final class LoginActivity extends AppCompatActivity {
+
+    /* Attributes */
+    private TextView usernameForm; // Represents the username TextView on activity_login.xml
+    private TextView passwordForm; // Represents the password TextView on activity_login.xml
+    private TextView loginHelp; // Represents the clickable login help TextView on activity_login.xml
+    private Button loginButton; // Represents the login button on activity_login.xml
+
+    /* Method initializes TextView components during onCreate().
+     * Use this method to initialize TextView components etc.. */
+    private void setUpTextView() {
+        usernameForm = (TextView) findViewById(R.id.username_form);
+        passwordForm = (TextView) findViewById(R.id.password_form);
+        loginHelp = (TextView) findViewById(R.id.login_help);
+
+        loginHelp.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                makeToast("Help sent!");
+            }
+        });
+    }
+
+    /* Method initializes Button components during onCreate().
+     * Use this method to initialize Button components etc.. */
+    private void setUpButtons() {
+        loginButton = (Button) findViewById(R.id.login_button);
+        loginButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                makeToast("Logged in!");
+            }
+        });
+    }
+
+    /* This method is used to debug buttons. */
+    private void makeToast(final String message) {
+        Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+        setUpTextView();
+        setUpButtons();
     }
-    // End of class.s
+
+    // End of class.
 }
