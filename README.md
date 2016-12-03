@@ -4,6 +4,7 @@
 * Behold the _literal_ GitHub repository for CS2001-2016/17 Team 15, as it appears there are two.
 
 #### Notifications (Last Updated:2/12/16)
+- **Updated App** - Finished login screen, added app icon to the app. 
 - Next week's meeting is on Friday 9:30am. Correct me if I'm wrong.
 - Tutor has advised for group to familiarize themselves with Android development before Xmas break.
 - The group has decided on task distribution.
