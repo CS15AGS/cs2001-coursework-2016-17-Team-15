@@ -10,5 +10,6 @@
 
 ##### Packages and their purpose (Apologies for the blinding names, but they are named like this by convention.)
 - brunelcs_2016_17.group15.activities -> This package **should** only contain activity classes for each layout. 
+- brunelcs_2016_17.group15.login -> This package **should** only contain login classes for each layout. 
 
 #### Thanks!
