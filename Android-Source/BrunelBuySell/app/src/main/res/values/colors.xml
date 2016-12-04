@@ -2,11 +2,15 @@
 <resources>
     <!-- Brunel Related Colours -->
     <color name="brunelBlue">#00335b</color>
-    <color name="brunelBlueDark">#303F9F</color>
-    <color name="brunelAccent">#FF4081</color>
+    <color name="brunelBlueDark">#011427</color>
+
+    <!-- Alternative Colours -->
+    <color name="awesomeGrey">#202020</color>
+    <color name="awesomeGreyDark">#161616</color>
 
     <!-- TextView Colours -->
-    <color name="textViewBackground">#eeeeee</color>
+    <color name="textViewBackground">#e0e0e0</color>
+    <color name="textFontWhite">#e0e0e0</color>
     <color name="textFontForm">#616161</color>
     <color name="textFontLogin">#e21043</color>
 </resources>

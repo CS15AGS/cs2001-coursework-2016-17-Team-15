@@ -9,6 +9,7 @@
 package brunelcs_2016_17.group15.activities; // Package which this class belongs to.
 
 /* Imports go here. */
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -31,12 +32,21 @@ public final class LoginActivity extends AppCompatActivity {
         passwordForm = (TextView) findViewById(R.id.password_form);
         loginHelp = (TextView) findViewById(R.id.login_help);
 
+        /* Intent which starts up the login help activity. */
+        final Intent loginHelpIntent = new Intent(this, LoginHelpActivity.class);
+
+        /* Set up the click response. */
         loginHelp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                makeToast("Help sent!");
+                startActivity(loginHelpIntent);
             }
         });
+
+        /* Make sure the forms do not hae more than one line. We want people writing usernames, not essays. */
+        loginHelp.setSingleLine();
+        usernameForm.setSingleLine();
+        passwordForm.setSingleLine();
     }
 
     /* Method initializes Button components during onCreate().
@@ -60,6 +70,8 @@ public final class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+        /* Set up activity components. */
         setUpTextView();
         setUpButtons();
     }

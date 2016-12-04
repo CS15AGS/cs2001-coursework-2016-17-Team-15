@@ -4,12 +4,21 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/brunelBlue</item>
         <item name="colorPrimaryDark">@color/brunelBlueDark</item>
-        <item name="colorAccent">@color/brunelAccent</item>
+        <item name="colorAccent">@color/brunelBlue</item>
     </style>
 
     <!-- Login Activity Theme. -->
     <style name="LoginStyle" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="android:textColor">@color/textFontForm</item>
+    </style>
+
+    <!-- Login Help Activity Theme. -->
+    <style name="LoginHelp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/awesomeGrey</item>
+        <item name="colorPrimaryDark">@color/awesomeGreyDark</item>
+        <item name="colorAccent">@color/awesomeGrey</item>
+        <item name="android:textColor">@color/textFontWhite</item>
     </style>
 </resources>

@@ -18,6 +18,17 @@
             </intent-filter>
         </activity>
 
+        <!-- Login Help Activity Registered, a child of the login activity -->
+        <activity android:name=".LoginHelpActivity"
+            android:label="@string/loginhelplabel"
+            android:theme="@style/LoginHelp"
+            android:parentActivityName=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <!-- Homepage Activity Registered -->
         <activity android:name=".HomepageActivity">
             <intent-filter>

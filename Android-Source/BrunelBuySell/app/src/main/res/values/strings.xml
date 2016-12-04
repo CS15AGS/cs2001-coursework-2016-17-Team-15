@@ -1,3 +1,20 @@
 <resources>
+    <!-- Application Strings -->
     <string name="app_name">BrunelBuySell</string>
+
+    <!-- Login Page Strings -->
+    <string name="usernamedefault">Student ID</string>
+    <string name="passworddefault">Password</string>
+    <string name="loginhelp">Need help with logging in? Click Here.</string>
+
+    <!-- Login Help Strings -->
+    <string name="loginhelplabel">Trouble Logging In</string>
+    <string name="loginhelpnumbering1">1.</string>
+    <string name="Loginhelpnumbering2">2.</string>
+    <string name="loginhelptext1">If you are having problems accessing the application:</string>
+    <string name="loginhelptext2">Are you entering the correct details (username and password)?
+        Students have both a \'Student ID Number\' and a \'Network Account\' username, as well as two passwords.</string>
+    <string name="loginhelptext3">Have you forgotten your password or has your password expired?
+        You can reset your password, provided you have registered with the online password portal service.</string>
+    <string name="loginhelptext4">If you are still having difficulties, get in touch with the Brunel computing support team.</string>
 </resources>
