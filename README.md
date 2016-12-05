@@ -13,10 +13,10 @@
 - **Notifications** - James
 - **Menus** - James
 - **Working GUI interactions/Implementing the screens**
-  - Done: Login Screen, Login Help Screen
-  - Ashish: My item screen, Sell an Item, Sold Item, Messaging Screen
-  - Edzel: Homepage, Results Screen, Product Info
-  - James: Category menu, Buyer seller interface menu
+  - **Done: Login Screen, Login Help Screen**
+  - **Ashish: My item screen, Sell an Item, Sold Item, Messaging Screen**
+  - **Edzel: Homepage, Results Screen, Product Info**
+  - **James: Category menu, Buyer seller interface menu**
 - **Define package structure and package specifications** - Edzel
 - **Study database integrations** - Mamunah
 - **Website** - Ashish/James
