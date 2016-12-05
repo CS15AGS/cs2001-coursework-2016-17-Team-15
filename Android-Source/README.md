@@ -8,7 +8,7 @@
 - Application name: BrunelBuySell
 - Company Domain: BrunelCS_2016_17.Group15
 
-### Packages and their purpose (Apologies for the blinding names, but they are named like this by convention.)
+### Packages and their purpose
 
 ##### brunelcs_2016_17.group15.activities
 - Holds classes which represent the activities of the app.
