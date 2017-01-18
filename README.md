@@ -3,11 +3,9 @@
 ## Welcome to Team 15's Repository!
 * Behold the _literal_ GitHub repository for CS2001-2016/17 Team 15, as it appears there are two.
 
-#### Notifications (Last Updated:4/12/16)
+#### Notifications (Last Updated:18/1/17)
+- Welcome back! Hope you all had a good holiday!
 - **Updated App** - Finished login screen, finished help screen, added app icon to the app. 
-- Next week's meeting is on Friday 9:30am. Correct me if I'm wrong.
-- Tutor has advised for group to familiarize themselves with Android development before Xmas break.
-- The group has decided on task distribution.
 
 #### PENDING-TASK Distribution (Last Updated:2/12/16)
 - **Notifications** - James
@@ -31,8 +29,8 @@
 
 #### Important Dates
 - ~~Design Presentation - 4th November 2016~~
-- Mobile Prototype Demo - 9th December 2016  (Upcoming)
-- Peer & Self Assessment - 16th December 2016
+- ~~Mobile Prototype Demo - 9th December 2016  (Upcoming)~~
+- ~~Peer & Self Assessment - 16th December 2016~~
 - Beta System Demo - 10th February 2017
 - System Demo Video - 24th February 2017
 - Promotional Website - 24th February 2017
