@@ -5,6 +5,7 @@
 
 #### Notifications (Last Updated:18/1/17)
 - Welcome back! Hope you all had a good holiday!
+- Edzel is still trying to fix that darn gradle error.. wish him the best of luck.
 - **Updated App** - Finished login screen, finished help screen, added app icon to the app. 
 
 #### PENDING-TASK Distribution (Last Updated:2/12/16)
