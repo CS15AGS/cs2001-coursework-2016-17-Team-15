@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SellingPage</string>
+    <string name="product_descriptions">Product Descriptions</string>
+    <string name="product_title">Product Title</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="price">Price</string>
+    <string name="insert_an_image_below">Insert an image below</string>
+    <string name="select_a_category">Select a category</string>
+</resources>

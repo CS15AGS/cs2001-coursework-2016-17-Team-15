@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_b"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="Nav"
+        app:showAsAction="always"
+        android:layout_alignParentEnd="true"/>
+    <item
+        android:id="@+id/search_b"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="search"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/basket_b"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="basket"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/profile_b"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="profile"
+        app:showAsAction="always"/>
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="marketing">Marketing</string>
+    <string name="sold_to">Sold to</string>
+    <string name="_15">£15</string>
+    <string name="_1410657_my_brunel_ac_uk">1410657@my.brunel.ac.uk</string>
+    <string name="_1310675_my_brunel_ac_uk">1310675@my.brunel.ac.uk</string>
+    <string name="_700w_microwave">700W Microwave</string>
+    <string name="critical_thinking_book">Critical Thinking Book</string>
+    <string name="_25">£25</string>
+
+</resources>

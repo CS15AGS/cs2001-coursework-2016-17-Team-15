@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/Etprodtitle"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:inputType="text"
+            android:ems="10"
+            android:background="#E0E0E0"
+            android:gravity="left"
+            android:hint="@string/product_title"
+            android:layout_weight="0.63" />
+
+        <EditText
+            android:id="@+id/Etproductdes"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:ems="10"
+            android:background="#E0E0E0"
+            android:hint="@string/product_descriptions"
+            android:gravity="left"
+            android:layout_marginTop="11dp"
+            android:scrollHorizontally="false"
+            android:inputType="textMultiLine"
+            android:singleLine="false"
+            android:layout_weight="0.90" />
+
+        <EditText
+            android:id="@+id/Etcategory"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:inputType="text"
+            android:gravity="left"
+            android:ems="10"
+            android:background="#E0E0E0"
+            android:layout_marginTop="13dp"
+            android:hint="@string/select_a_category"
+            android:layout_weight="0.44" />
+
+        <EditText
+            android:id="@+id/Etprice"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:inputType="number|numberDecimal"
+            android:gravity="left"
+            android:ems="10"
+            android:background="#E0E0E0"
+            android:hint="@string/price"
+            android:layout_marginTop="14dp"
+            android:layout_weight="0.33" />
+
+        <TextView
+            android:id="@+id/inserttext"
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:hint="@string/insert_an_image_below"
+            android:layout_gravity="center_horizontal"
+            android:background="#E0E0E0"
+            android:layout_margin="16dp" />
+
+        <ImageView
+            android:id="@+id/imagetoupload"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:contentDescription="" />
+
+        <Button
+            android:id="@+id/Bconfirm"
+            android:text="@string/confirm"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Bcancel"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/cancel"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
